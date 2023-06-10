@@ -38,9 +38,9 @@
 ##### BMGroupDelete.java
 북마크 그룹 삭제하기
 ##### BMList.java
-북마크 목록 가져오기 (와이파이와 북마크를 BOOKMARK_ID를 통해 조인)
+북마크 목록 가져오기
 ##### BMEdit.java
-북마크 삭제하기 (해당 와이파이의 BOOKMARK_ID = null로 바꿔주기)
+북마크 삭제하기
 
 ***
 ### - jsp files - 
